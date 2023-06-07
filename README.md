@@ -1,4 +1,4 @@
-[![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://rishavchanda.io)
+[![MasterHead](https://www.revenueriver.co/hubfs/fullstack.jpeg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Momi Olamide</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
