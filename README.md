@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scientist-momi&label=Profile%20views&color=0e75b6&style=flat" alt="scientist-momi" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://momiwebs.com.ng](https://momiwebs.com.ng)
 
