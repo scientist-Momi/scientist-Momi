@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scientist-momi&label=Profile%20views&color=0e75b6&style=flat" alt="scientist-momi" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://momiwebs.com.ng](https://momiwebs.com.ng)
 
-- 💬 Ask me about **PHP, JAVA, JAVASCRIPT, HTML, CSS**
+- 💬 Ask me about **PYTHON, JAVA, SPRINGBOOT, PHP, LARAVEL, JAVASCRIPT, ANGULAR JS, VUE JS, HTML, CSS**
 
-- 📫 How to reach me **scientistmomi22@gmail.com**
+- 📫 How to reach me **momi.official33@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
