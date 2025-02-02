@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [https://momiwebs.com.ng](https://momiwebs.com.ng)
-
 - 💬 Ask me about **PYTHON, JAVA, SPRINGBOOT, PHP, LARAVEL, JAVASCRIPT, ANGULAR JS, VUE JS, HTML, CSS**
 
 - 📫 How to reach me **momi.official33@outlook.com**
