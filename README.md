@@ -4,58 +4,58 @@
 
 ## 👨🏾‍💻 Skills, Languages and Tools
 
-<div style="display: flex; gap: 40px; align-items: flex-end; flex-wrap: wrap;">
+<div style="display: flex; gap: 40px; align-items: center; flex-wrap: wrap;">
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/java.svg" alt="Java" width="40" height="40" />
-		<small>Java</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Java</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
-		<small>JavaScript</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">JavaScript</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/python.svg" alt="Python" width="40" height="40" />
-		<small>Python</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Python</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/php.svg" alt="PHP" width="40" height="40" />
-		<small>PHP</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">PHP</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/vuejs.svg" alt="VueJS" width="40" height="40" />
-		<small>VueJS</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">VueJS</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/laravel.svg" alt="Laravel" width="40" height="40" />
-		<small>Laravel</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Laravel</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/spring-boot.svg" alt="SpringBoot" width="40" height="40" />
-		<small>Spring Boot</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Spring Boot</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/html.svg" alt="HTML" width="40" height="40" />
-		<small>HTML</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">HTML</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/git.svg" alt="Git" width="40" height="40" />
-		<small>Git</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Git</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/css.svg" alt="CSS" width="40" height="40" />
-		<small>CSS</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">CSS</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/raspberry.svg" alt="Raspberry" width="40" height="40" />
-		<small>Raspberry</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Raspberry</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" />
-		<small>Tailwind CSS</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Tailwind CSS</span>
 	</div>
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<img src="/public/postman.svg" alt="Postman" width="40" height="40" />
-		<small>Postman</small>
+		<span style="margin-top: 8px; display: block; text-align: center;">Postman</span>
 	</div>
 </div>
 
