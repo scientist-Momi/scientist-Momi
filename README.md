@@ -2,10 +2,13 @@
 
 ---
 
-## Skills
+## 👨🏾‍💻Skills
 
 <div style="display: flex; gap: 20px; align-items: center;">
-	<img src="/public/javascript.svg" alt="JavaScript" width="50" height="50" />
+	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
+	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
+	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
+	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
 	<!-- Add more SVGs by inserting <img src="/public/your-skill.svg" alt="Skill" width="50" height="50" /> -->
 </div>
 
