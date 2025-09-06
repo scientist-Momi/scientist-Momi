@@ -2,7 +2,7 @@
 
 <!-- --- -->
 
-## 👨🏾‍💻 Skills
+## 👨🏾‍💻 Skills, Languages and Tools
 
 <div style="display: flex; gap: 40px; align-items: center;">
 	<img src="/public/java.svg" alt="Java" width="40" height="40" />
@@ -12,40 +12,13 @@
 	<img src="/public/vuejs.svg" alt="VueJS" width="40" height="40" />
 	<img src="/public/laravel.svg" alt="Laravel" width="40" height="40" />
 	<img src="/public/spring-boot.svg" alt="SpringBoot" width="40" height="40" />
-	<img src="/public/mysql.svg" alt="MySQL" width="40" height="40" />
-	<!-- Add more SVGs by inserting <img src="/public/your-skill.svg" alt="Skill" width="50" height="50" /> -->
+	<img src="/public/html.svg" alt="MySQL" width="40" height="40" />
+	<img src="/public/git.svg" alt="Git" width="40" height="40" />
+	<img src="/public/css.svg" alt="CSS" width="40" height="40" />
+	<img src="/public/raspberry.svg" alt="Raspberry" width="40" height="40" />
+	<img src="/public/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" />
+	<img src="/public/postman.svg" alt="Postman" width="40" height="40" />
 </div>
-
-<!-- **🌱 Currently learning:** Spring Boot
-
-**💬 Ask me about:** Python, Java, Spring Boot, PHP, Laravel, JavaScript, AngularJS, Vue.js, HTML, CSS
-
-**📫 Reach me at:** momi.official33@outlook.com -->
-
----
-
-## Connect with me
-
-[Twitter](https://twitter.com/scientistmomi)
-
----
-
-## Languages and Tools
-
-- Python
-- Java
-- Spring Boot
-- PHP
-- Laravel
-- JavaScript
-- AngularJS
-- Vue.js
-- HTML
-- CSS
-- Git
-- MySQL
-- Microsoft SQL Server
-- Postman
 
 ---
 
