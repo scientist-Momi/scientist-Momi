@@ -5,7 +5,10 @@
 ## 👨🏾‍💻 Skills, Languages and Tools
 
 <div style="display: flex; gap: 40px; align-items: center;">
-	<img src="/public/java.svg" alt="Java" width="40" height="40" />
+    <div>
+        <img src="/public/java.svg" alt="Java" width="40" height="40" />
+        <small>Java</small>
+    </div>
 	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
 	<img src="/public/python.svg" alt="Python" width="40" height="40" />
 	<img src="/public/php.svg" alt="PHP" width="40" height="40" />
