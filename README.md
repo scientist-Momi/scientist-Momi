@@ -5,10 +5,11 @@
 ## 👨🏾‍💻 Skills
 
 <div style="display: flex; gap: 20px; align-items: center;">
+	<img src="/public/java.svg" alt="Java" width="40" height="40" />
 	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
-	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
-	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
-	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
+	<img src="/public/python.svg" alt="Python" width="40" height="40" />
+	<img src="/public/php.svg" alt="PHP" width="40" height="40" />
+	<img src="/public/vuejs.svg" alt="VueJS" width="40" height="40" />
 	<!-- Add more SVGs by inserting <img src="/public/your-skill.svg" alt="Skill" width="50" height="50" /> -->
 </div>
 
