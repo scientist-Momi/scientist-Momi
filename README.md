@@ -1,7 +1,13 @@
 # ![Banner](/public/image1.png)
-# Hi 👋, I'm Momi Olamide
 
-### A passionate full stack developer from Nigeria
+---
+
+## Skills
+
+<div style="display: flex; gap: 20px; align-items: center;">
+	<img src="/public/javascript.svg" alt="JavaScript" width="50" height="50" />
+	<!-- Add more SVGs by inserting <img src="/public/your-skill.svg" alt="Skill" width="50" height="50" /> -->
+</div>
 
 **🌱 Currently learning:** Spring Boot
 
