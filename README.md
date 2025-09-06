@@ -1,3 +1,4 @@
+# ![Banner](/public/image1.png)
 # Hi 👋, I'm Momi Olamide
 
 ### A passionate full stack developer from Nigeria
