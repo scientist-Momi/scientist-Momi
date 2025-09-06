@@ -12,11 +12,11 @@
 	<!-- Add more SVGs by inserting <img src="/public/your-skill.svg" alt="Skill" width="50" height="50" /> -->
 </div>
 
-**🌱 Currently learning:** Spring Boot
+<!-- **🌱 Currently learning:** Spring Boot
 
 **💬 Ask me about:** Python, Java, Spring Boot, PHP, Laravel, JavaScript, AngularJS, Vue.js, HTML, CSS
 
-**📫 Reach me at:** momi.official33@outlook.com
+**📫 Reach me at:** momi.official33@outlook.com -->
 
 ---
 
