@@ -12,6 +12,7 @@
 	<img src="/public/vuejs.svg" alt="VueJS" width="40" height="40" />
 	<img src="/public/laravel.svg" alt="Laravel" width="40" height="40" />
 	<img src="/public/spring-boot.svg" alt="SpringBoot" width="40" height="40" />
+	<img src="/public/mysql.svg" alt="MySQL" width="40" height="40" />
 	<!-- Add more SVGs by inserting <img src="/public/your-skill.svg" alt="Skill" width="50" height="50" /> -->
 </div>
 
