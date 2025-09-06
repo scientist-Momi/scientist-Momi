@@ -4,7 +4,7 @@
 
 ## 👨🏾‍💻 Skills
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 40px; align-items: center;">
 	<img src="/public/java.svg" alt="Java" width="40" height="40" />
 	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
 	<img src="/public/python.svg" alt="Python" width="40" height="40" />
