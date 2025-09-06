@@ -1,8 +1,8 @@
 # ![Banner](/public/image1.png)
 
----
+<!-- --- -->
 
-## 👨🏾‍💻Skills
+## 👨🏾‍💻 Skills
 
 <div style="display: flex; gap: 20px; align-items: center;">
 	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
