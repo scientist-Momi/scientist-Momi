@@ -48,4 +48,6 @@
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=scientist-momi&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientist-momi&show_icons=true&locale=en) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scientist-momi&)
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=scientist-momi&" alt="GitHub Streak" />
+</div>
