@@ -5,7 +5,7 @@
 ## 👨🏾‍💻 Skills, Languages and Tools
 
 <div style="display: flex; gap: 40px; align-items: center; flex-wrap: wrap;">
-	<div style="display: flex; flex-direction: column; align-items: center;">
+	<div style="display: flex; flex-direction: row; align-items: center;">
 		<img src="/public/java.svg" alt="Java" width="40" height="40" />
 		<span style="margin-top: 8px; display: block; text-align: center;">Java</span>
 	</div>
