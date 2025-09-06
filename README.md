@@ -4,10 +4,21 @@
 
 ## 👨🏾‍💻 Skills, Languages and Tools
 
-
-| ![](/public/java.svg) | ![](/public/javascript.svg) | ![](/public/python.svg) | ![](/public/php.svg) | ![](/public/vuejs.svg) | ![](/public/laravel.svg) | ![](/public/spring-boot.svg) | ![](/public/html.svg) | ![](/public/git.svg) | ![](/public/css.svg) | ![](/public/raspberry.svg) | ![](/public/tailwind-css.svg) | ![](/public/postman.svg) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Java | JavaScript | Python | PHP | VueJS | Laravel | Spring Boot | HTML | Git | CSS | Raspberry | Tailwind CSS | Postman |
+<div style="display: flex; gap: 40px; align-items: center;">
+	<img src="/public/java.svg" alt="Java" width="40" height="40" />
+	<img src="/public/javascript.svg" alt="JavaScript" width="40" height="40" />
+	<img src="/public/python.svg" alt="Python" width="40" height="40" />
+	<img src="/public/php.svg" alt="PHP" width="40" height="40" />
+	<img src="/public/vuejs.svg" alt="VueJS" width="40" height="40" />
+	<img src="/public/laravel.svg" alt="Laravel" width="40" height="40" />
+	<img src="/public/spring-boot.svg" alt="SpringBoot" width="40" height="40" />
+	<img src="/public/html.svg" alt="MySQL" width="40" height="40" />
+	<img src="/public/git.svg" alt="Git" width="40" height="40" />
+	<img src="/public/css.svg" alt="CSS" width="40" height="40" />
+	<img src="/public/raspberry.svg" alt="Raspberry" width="40" height="40" />
+	<img src="/public/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40" />
+	<img src="/public/postman.svg" alt="Postman" width="40" height="40" />
+</div>
 
 ---
 
